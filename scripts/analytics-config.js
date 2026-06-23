@@ -1,0 +1,5 @@
+window.CUSP_ANALYTICS_CONFIG = {
+  GA_MEASUREMENT_ID: "",
+  META_PIXEL_ID: "",
+  TIKTOK_PIXEL_ID: ""
+};
