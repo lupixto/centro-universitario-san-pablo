@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lupixito.github.io/centro-universitario-san-pablo/sitemap.xml
